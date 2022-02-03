@@ -1,0 +1,40 @@
+{
+    "name": "justoverclock/user-pc-specs",
+    "description": "Add Pc Specs fields to each user showed in Post Footer",
+    "keywords": [
+        "pc specs",
+        "users pc",
+        "hardware specs"
+    ],
+    "type": "flarum-extension",
+    "license": "MIT",
+    "require": {
+        "flarum/core": "^1.0.0"
+    },
+    "require-dev": {
+        "flarum/testing": "^1.0.0"
+    },
+    "authors": [
+        {
+            "name": "Marco Colia",
+            "email": "info@flarum.it",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Justoverclock\\UserPcSpecs\\": "src/"
+        }
+    },
+    "extra": {
+        "flarum-extension": {
+            "title": "User Pc Specs",
+            "category": "features",
+            "icon": {
+                "name": "fas fa-tv",
+                "backgroundColor": "purple",
+                "color": "white"
+            }
+        }
+    }
+}
