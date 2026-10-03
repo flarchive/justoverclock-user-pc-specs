@@ -2,13 +2,19 @@
 
 > **Read-only archive of released versions of justoverclock/user-pc-specs.** Not for installation: use [Packagist](https://packagist.org/packages/justoverclock/user-pc-specs) or the [upstream repository](https://github.com/justoverclockl/user-pc-specs).
 
-**0** versions archived · Latest: [`0.1.6`](https://github.com/flarchive/justoverclock-user-pc-specs/tree/archive/v0.1.6) · License: `MIT` · Flarum: `^1.0.0`
+**7** versions archived · Latest: [`0.1.6`](https://github.com/flarchive/justoverclock-user-pc-specs/tree/archive/v0.1.6) · License: `MIT` · Flarum: `^1.0.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2022-01-31 | `^1.0.0` | [Browse](https://github.com/flarchive/justoverclock-user-pc-specs/tree/archive/v0.1.0) |
+| `0.1.1` | 2022-01-31 | `^1.0.0` | [Browse](https://github.com/flarchive/justoverclock-user-pc-specs/tree/archive/v0.1.1) |
+| `0.1.2` | 2022-02-01 | `^1.0.0` | [Browse](https://github.com/flarchive/justoverclock-user-pc-specs/tree/archive/v0.1.2) |
+| `0.1.3` | 2022-02-01 | `^1.0.0` | [Browse](https://github.com/flarchive/justoverclock-user-pc-specs/tree/archive/v0.1.3) |
+| `0.1.4` | 2022-02-01 | `^1.0.0` | [Browse](https://github.com/flarchive/justoverclock-user-pc-specs/tree/archive/v0.1.4) |
+| `0.1.5` | 2022-02-03 | `^1.0.0` | [Browse](https://github.com/flarchive/justoverclock-user-pc-specs/tree/archive/v0.1.5) |
+| `0.1.6` | 2022-07-04 | `^1.0.0` | [Browse](https://github.com/flarchive/justoverclock-user-pc-specs/tree/archive/v0.1.6) |
 
 Catalog entry: [packages/justoverclock-user-pc-specs.json](https://github.com/flarchive/archive-index/blob/main/packages/justoverclock-user-pc-specs.json)
 
